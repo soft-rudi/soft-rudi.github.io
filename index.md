@@ -13,3 +13,5 @@ Quelle: Wikipedia
 * Drei Kinder 
 * Vier mal verheiratet
  
+ > Nur gerührt, nicht geschüttelt
+ 

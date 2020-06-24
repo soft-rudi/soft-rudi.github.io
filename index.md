@@ -5,3 +5,11 @@ Sir Roger George Moore, KBE (* 14. Oktober 1927 in Stockwell, London; † 23. Ma
 Ab den 1990er Jahren konzentrierte sich der Golden-Globe-Preisträger vornehmlich auf sein soziales Engagement als UN-Sonderbotschafter für das Kinderhilfswerk UNICEF, sowie für den Tierschutz. 
 
 Quelle: Wikipedia
+
+## Karaktereigenschaften
+
+* Soziales Engagement
+* Engagement für den Tierschutz
+* Drei Kinder 
+* Vier mal verheiratet
+ 

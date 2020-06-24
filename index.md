@@ -14,4 +14,5 @@ Quelle: Wikipedia
 * Vier mal verheiratet
  
  > Nur gerührt, nicht geschüttelt
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sir_Roger_Moore_Allan_Warren.jpg/170px-Sir_Roger_Moore_Allan_Warren.jpg" />
+ 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sir_Roger_Moore_Allan_Warren.jpg/170px-Sir_Roger_Moore_Allan_Warren.jpg"/>
